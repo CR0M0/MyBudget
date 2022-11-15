@@ -1,0 +1,27 @@
+.form-group{
+  padding: 0.5rem 0;
+}
+
+.input-box {
+  padding: 0 30%;
+}
+
+.logo{
+  padding: 0 2rem;
+}
+
+.nav-item{
+  padding: 0 2rem;
+}
+
+.totals{
+  padding: 5%;
+}
+
+.totals-item{
+  text-align: center;
+}
+
+.transactions{
+  padding: 3rem;
+}
